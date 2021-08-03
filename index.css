@@ -125,7 +125,11 @@ table {
 
 body {
   font-family: Roboto Mono, Arial, sans-serif;
-  background: #ddb9a3;
+}
+
+.container {
+  margin: 0 auto;
+  width: auto;
 }
 
 h1 {
@@ -161,4 +165,7 @@ footer {
 
 strong {
   font-weight: bold;
+}
+.main-body {
+  background: #ddb9a3;
 }
