@@ -123,6 +123,14 @@ table {
   border-spacing: 0;
 }
 
+body {
+  font-family: Roboto Mon, Arial, sans-serif;
+}
+
+h1 {
+  font-family: Chelsea Market, Arial, sans-serif;
+}
+
 .bubble {
   margin: 0 10px;
   border: 1px solid lightgray;
