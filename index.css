@@ -180,3 +180,8 @@ nav {
 .first-section {
   display: flex;
 }
+
+.first-image {
+  width: 400px;
+  height: auto;
+}
