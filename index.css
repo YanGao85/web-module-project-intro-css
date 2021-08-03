@@ -125,6 +125,7 @@ table {
 
 body {
   font-family: Roboto Mono, Arial, sans-serif;
+  background: #ddb9a3;
 }
 
 h1 {
@@ -154,13 +155,6 @@ a.getInvolved {
   background: #ffcd69;
 }
 
-/* footer nav a {
-    margin: 0 10px;
-    border: 1px solid lightgray;
-    padding: 20px;
-    display: inline-block;
-    border-radius: 20px;
-    color: white;
-    text-decoration: none;
-    margin-bottom: 20px;
-  } */
+footer {
+  background: #f9e7dc;
+}
