@@ -167,10 +167,6 @@ footer {
 strong {
   font-weight: bold;
 }
-.main-body {
-  background: #ddb9a3;
-  color: white;
-}
 
 nav {
   display: flex;
@@ -180,6 +176,15 @@ nav {
 .first-section {
   display: flex;
   justify-content: space-evenly;
+}
+
+.second-section {
+  background: #ddb9a3;
+  color: white;
+}
+
+.third-section {
+  width: 35%;
 }
 
 .first-image {
