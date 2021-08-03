@@ -123,8 +123,7 @@ table {
   border-spacing: 0;
 }
 
-header,
-footer nav a {
+.bubble {
   margin: 0 10px;
   border: 1px solid lightgray;
   padding: 20px;
@@ -135,16 +134,15 @@ footer nav a {
   margin-bottom: 20px;
 }
 
-header,
-footer nav a.plan {
+a.plan {
   background: #ff764e;
 }
-header,
-footer nav a.learn {
+
+a.learn {
   background: #5ed3eb;
 }
-header,
-footer nav a.getInvolved {
+
+a.getInvolved {
   background: #ffcd69;
 }
 
