@@ -129,7 +129,7 @@ body {
 }
 
 .container {
-  margin: 30px;
+  margin: 0 auto;
   width: auto;
 }
 
@@ -184,5 +184,10 @@ nav {
 
 .first-image {
   width: 400px;
+  height: auto;
+}
+
+.icons {
+  width: 100px;
   height: auto;
 }
