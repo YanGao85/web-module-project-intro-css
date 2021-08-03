@@ -213,7 +213,7 @@ p {
 }
 
 .first-section p {
-  margin: 15px auto;
+  margin: 15 px auto;
 }
 
 .first-section div {
@@ -226,8 +226,7 @@ p {
   border-radius: 50%;
 }
 
-.trees {
+footer img {
   max-width: 100%;
   height: auto;
-  background-attachment: fixed;
 }
