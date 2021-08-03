@@ -179,6 +179,7 @@ nav {
 
 .first-section {
   display: flex;
+  justify-content: space-evenly;
 }
 
 .first-image {
