@@ -168,4 +168,9 @@ strong {
 }
 .main-body {
   background: #ddb9a3;
+  color: white;
+}
+
+nav {
+  display: flex;
 }
