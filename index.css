@@ -131,6 +131,7 @@ body {
 .container {
   margin: 0 auto;
   width: auto;
+  letter-spacing: 1.3px;
 }
 
 h1 {
@@ -138,14 +139,14 @@ h1 {
 }
 
 .bubble {
-  margin: 0 10px;
+  margin: 20px;
   border: 1px solid lightgray;
-  padding: 20px;
+  padding: 10px 25px;
   display: inline-block;
   border-radius: 20px;
   color: white;
   text-decoration: none;
-  margin-bottom: 20px;
+  width: 100px;
 }
 
 a.plan {
@@ -184,7 +185,9 @@ nav {
 }
 
 .third-section {
-  width: 35%;
+  /*   display: flex; */
+  margin: auto;
+  width: 30%;
 }
 
 .first-image {
@@ -195,4 +198,8 @@ nav {
 .icons {
   width: 100px;
   height: auto;
+}
+
+h1 {
+  font-size: 40px;
 }
