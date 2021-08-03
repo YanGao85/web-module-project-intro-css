@@ -141,12 +141,12 @@ h1 {
 .bubble {
   margin: 20px;
   border: 1px solid lightgray;
-  padding: 10px 25px;
+  padding: 10px 20px;
   display: inline-block;
   border-radius: 15px;
   color: white;
   text-decoration: none;
-  width: 100px;
+  width: 110px;
 }
 
 a.plan {
