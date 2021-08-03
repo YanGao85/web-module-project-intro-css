@@ -174,4 +174,5 @@ strong {
 
 nav {
   display: flex;
+  justify-content: center;
 }
