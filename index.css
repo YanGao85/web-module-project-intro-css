@@ -228,15 +228,15 @@ nav a {
 
 .right p {
   padding: 2% 0;
-  width: 40%;
-  margin: 0 30%;
+  width: 50%;
+  margin: 0 25%;
 }
 
 .second-section {
   background-color: #ddb9a3;
   color: white;
-  padding: 0 1%;
-  margin: 1%;
+  padding: 0.5% 2%;
+  margin: 2%;
   text-align: center;
 }
 
