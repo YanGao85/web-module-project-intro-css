@@ -141,7 +141,7 @@ h1 {
 
 .bubble {
   margin: 20px;
-  border: 1px solid lightgray;
+  /* border: 1px solid lightgray; */
   padding: 10px 20px;
   display: inline-block;
   border-radius: 15px;
@@ -227,7 +227,10 @@ p {
   border-radius: 50%;
 }
 
-footer img {
+footer div.footer-img {
+  background-image: url('/assets/footer_img.jpg');
   max-width: 100%;
-  height: auto;
+  height: 250px;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
