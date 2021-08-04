@@ -123,6 +123,8 @@ table {
   border-spacing: 0;
 }
 
+/* After CSS reset  */
+
 body {
   font-family: Roboto Mono, Arial, sans-serif;
   text-align: center;
@@ -135,13 +137,13 @@ body {
   letter-spacing: 1.3px;
 }
 
-h1 {
-  font-family: Chelsea Market, Arial, sans-serif;
+nav {
+  display: flex;
+  justify-content: space-evenly;
 }
 
 .bubble {
   margin: 20px;
-  /* border: 1px solid lightgray; */
   padding: 10px 20px;
   display: inline-block;
   border-radius: 15px;
@@ -162,17 +164,8 @@ a.getInvolved {
   background: #ffcd69;
 }
 
-footer {
-  background-color: #f9e7dc;
-}
-
 strong {
   font-weight: bold;
-}
-
-nav {
-  display: flex;
-  justify-content: space-evenly;
 }
 
 .first-section {
@@ -181,10 +174,25 @@ nav {
   justify-content: space-evenly;
 }
 
+.first-section img {
+  width: 220px;
+  height: 220px;
+  border-radius: 50%;
+}
 .first-section div {
   display: flex;
   justify-content: space-evenly;
   flex-direction: column;
+  width: 50%;
+}
+
+h1 {
+  font-family: Chelsea Market, Arial, sans-serif;
+  font-size: 50px;
+}
+
+p {
+  margin: 20px auto;
 }
 
 .second-section {
@@ -205,26 +213,8 @@ nav {
   height: auto;
 }
 
-h1 {
-  font-size: 50px;
-}
-
-p {
-  margin: 10px auto;
-}
-
-.first-section p {
-  margin: 15 px auto;
-}
-
-.first-section div {
-  width: 50%;
-}
-
-.first-section img {
-  width: 220px;
-  height: 220px;
-  border-radius: 50%;
+footer {
+  background-color: #f9e7dc;
 }
 
 footer div.footer-img {
