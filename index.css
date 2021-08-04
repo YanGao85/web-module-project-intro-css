@@ -219,7 +219,7 @@ nav a {
 }
 
 .right h1 {
-  padding: 5% 0;
+  padding: 3% 0;
 }
 
 .right h2 {
@@ -228,6 +228,8 @@ nav a {
 
 .right p {
   padding: 2% 0;
+  width: 40%;
+  margin: 0 30%;
 }
 
 .second-section {
