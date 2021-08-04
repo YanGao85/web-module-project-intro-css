@@ -172,7 +172,7 @@ nav {
 nav a {
   display: inline-block;
   padding: 0.2% 0;
-  width: 10%;
+  width: 12%;
   border-radius: 10px;
   text-align: center;
   color: #fff;
@@ -185,7 +185,7 @@ nav a {
 
 .blue {
   background-color: #5ed3eb;
-  margin: 0 24%;
+  margin: 0 21%;
 }
 
 .yellow {
